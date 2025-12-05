@@ -2,7 +2,7 @@
 # White Elephant Gift Exchange App
 
 ## Live Site
-[Link to Live App](https://tollbros.github.io/white-elephant-game/)
+[Link to Live App](https://tollbros.github.io/white-elephant-osc)
 
 ## Overview
 The **White Elephant Gift Exchange App** is a dynamic app for early organizing and managing a virtual White Elephant-style gift exchanges. The owner will be resonsible for adding all of the gifts to the game prior to play - whether the owner hand selects gifts or collects a list of gifts from players. Images of gifts, gift names, and player names will be needed to play. 
@@ -41,8 +41,8 @@ Before running the app, ensure you have the following installed:
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/tollbros/white-elephant-game.git
-   cd white-elephant-game
+   git clone https://github.com/tollbros/white-elephant-osc
+   cd white-elephant-osc
    ```
 
 2. **Install Dependencies:**
