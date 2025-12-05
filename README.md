@@ -1,5 +1,5 @@
 
-# White Elephant Gift Exchange App
+# White Elephant Gift Exchange App - OSC Team
 
 ## Live Site
 [Link to Live App](https://tollbros.github.io/white-elephant-osc)

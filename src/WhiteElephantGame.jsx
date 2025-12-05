@@ -358,7 +358,7 @@ const WhiteElephantGame = () => {
           <span className="inline-flex items-center gap-2 rounded-full bg-white/80 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-rose-600 shadow-sm ring-1 ring-rose-100">
             <Sparkles size={16} /> Holiday Cheer Mode
           </span>
-          <h2 className="holiday-title text-4xl font-black text-teal-900 sm:text-5xl">MOPs White Elephant Gift Exchange</h2>
+          <h2 className="holiday-title text-4xl font-black text-teal-900 sm:text-5xl">OSC White Elephant Gift Exchange</h2>
           <p className="max-w-2xl text-xs text-slate-600 sm:text-sm">
             Unwrap. Steal. Repeat. Because holiday chaos is the gift that keeps on giving.
           </p>
